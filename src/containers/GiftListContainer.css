@@ -1,0 +1,5 @@
+.gif-container {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 40px;
+}

@@ -1,0 +1,10 @@
+.img {
+  border: solid black 2px;
+  height: 300px;
+  width: 300px;
+  margin-top: 20px;
+}
+
+.img-list {
+  margin-left: 600px;
+}
